@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate student at Gyanda Academy, explor
 ## 📫 Connect With Me
 
 - 🌐 [Portfolio](#) (Coming soon!)
-- 📧 Email: sbivek215.com
+- 📧 Email: sbivek215@gmail.com
 - 🔗 [Facebook](https://www.facebook.com/share/1JVhnzSaHA/)
 
 ## 📊 GitHub Stats
